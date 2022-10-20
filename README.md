@@ -1,16 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=대충화려해보이기위한대문&fontSize=50)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=CreateGabi)](https://github.com/CreateGabi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreateGabi)](https://github.com/CreateGabi/github-readme-stats)
 
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+![C](https://img.shields.io/badge/-C-123456?style=for-the-badge&logo=C&logoColor=black)
+![JAVA](https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=Java&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
-
+![Html](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-f56c42?style=for-the-badge&logo=Oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4290f5?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ### **Hi** there 👋
 ---
