@@ -25,7 +25,7 @@
 제 [블로그](https//www.naver.com)
 
 ```
-system.out.println("제발 오류 안나게 해주세요.");
+System.out.println("제발 오류 안나게 해주세요.");
 ```
 
 :smirk: <br>
