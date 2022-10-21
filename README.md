@@ -22,7 +22,7 @@
 * 1번
 * 2번
 
-제 [이메일](https//www.naver.com)
+제 [블로그](https//www.naver.com)
 
 ```
 system.Writeline()
