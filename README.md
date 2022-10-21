@@ -9,6 +9,7 @@
 
 제 [블로그](https//www.naver.com)
 
+---
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=CreateGabi)](https://github.com/CreateGabi)
 
