@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=대충화려해보이기위한대문&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=지금까지이런깃허브는없었다&fontSize=50)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=CreateGabi)](https://github.com/CreateGabi)
 
@@ -15,14 +15,14 @@
 ![Oracle](https://img.shields.io/badge/Oracle-f56c42?style=for-the-badge&logo=Oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4290f5?style=for-the-badge&logo=MySQL&logoColor=white)
 
-### **Hi** there 👋
----
-## Hi there 👋
-# Hi there 👋
+
+## 이것은 프로젝트인가 공부인가 :eyes:
+
+### 평범한 개발자 Hyeonyeong 입니다. 👋
 * 1번
 * 2번
 
-제 [블로그](https//www.naver.com)
+제 [이메일](https//www.naver.com)
 
 ```
 system.Writeline()
@@ -31,17 +31,3 @@ system.Writeline()
 :smirk: <br>
 :joy:
 
-<!--
-**CreateGabi/CreateGabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
