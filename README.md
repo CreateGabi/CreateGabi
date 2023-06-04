@@ -27,7 +27,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4290f5?style=for-the-badge&logo=MySQL&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 
-
+!--
 ```
 System.out.println("제발 오류 안나게 해주세요.");
 ```
+--!
