@@ -25,6 +25,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-f56c42?style=for-the-badge&logo=Oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4290f5?style=for-the-badge&logo=MySQL&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 
 
 ```
