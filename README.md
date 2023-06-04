@@ -6,11 +6,8 @@
 -->
 ### 평범한 개발자 Hyeonyeong(Gabi) 입니다. 👋
 * [미라클버드 프로젝트]
-* 
+* [텀 프로젝트 - ](https://github.com/CreateGabi/DBTermProject)
 
-<!--
-제 [블로그](https//www.naver.com)
--->
 ---
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=CreateGabi)](https://github.com/CreateGabi)
