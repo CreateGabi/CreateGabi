@@ -3,15 +3,16 @@
 
 
 ## 이것은 프로젝트인가 공부인가 :eyes:
-
+-->
 ### 평범한 개발자 Hyeonyeong(Gabi) 입니다. 👋
 * 1번
 * 2번
 
+<!--
 제 [블로그](https//www.naver.com)
-
----
 -->
+---
+
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=CreateGabi)](https://github.com/CreateGabi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreateGabi)](https://github.com/CreateGabi/github-readme-stats)
