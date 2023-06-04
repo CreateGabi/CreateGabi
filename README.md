@@ -5,8 +5,9 @@
 ## 이것은 프로젝트인가 공부인가 :eyes:
 -->
 ### 평범한 개발자 Hyeonyeong(Gabi) 입니다. 👋
-* [미라클버드 프로젝트]
+* [미라클버드 프로젝트](https://github.com/CreateGabi/miracle_bird)
 * [텀 프로젝트 - OT 전자제품](https://github.com/CreateGabi/DBTermProject)
+* [리엑트 웹 게임]
 
 ---
 
