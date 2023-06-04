@@ -6,7 +6,7 @@
 -->
 ### 평범한 개발자 Hyeonyeong(Gabi) 입니다. 👋
 * [미라클버드 프로젝트]
-* [텀 프로젝트 - ](https://github.com/CreateGabi/DBTermProject)
+* [텀 프로젝트 - OT 전자제품](https://github.com/CreateGabi/DBTermProject)
 
 ---
 
