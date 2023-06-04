@@ -9,7 +9,7 @@
 * [텀 프로젝트 - OT 전자제품](https://github.com/CreateGabi/DBTermProject)
 * [리엑트 웹 게임](https://github.com/CreateGabi/webgame-react)
 * [코딩테스트 연습](https://github.com/CreateGabi/codingtest)
-* [SWAE](
+* [SWEA](https://github.com/CreateGabi/SWEA)
 
 ---
 
